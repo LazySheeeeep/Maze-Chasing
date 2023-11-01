@@ -12,11 +12,16 @@ To progress, the player must eliminate all enemies in the current level. Game ov
 Regarding the crosshair, it is positioned in the center and ensures that bullets fired from the gun hit exactly where the crosshair is pointing, without any deviation. This is achieved by using a separate camera for the gun system and placing the gun directly in front of the main camera.
 
 ### Control
+- Left mouse button click for shooting
 - Arrow keys for movement
 - Spacebar for jumping
 - U for changing ammunition
-- C for changing weapons
+- C for changing weapons (with options for automatic and single-shot)
 - Tab for showing or hiding the mini-map
+
+### Play it now
+Download it [here](./Maze-Chasing-win-x86-64.zip) (windows).
+Then click MazeChasing.exe.
 
 ### Showcase
 Dynamic UI displaying the current wave number at the start of each wave, player health displayed in the top left corner, current score in the middle top, a mini-map in the top right corner, bullet count in the bottom right corner, and a central crosshair.
